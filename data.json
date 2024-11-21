@@ -2,9 +2,9 @@
   "stories": [
     {
       "id": "story1",
-      "title": "قصة الصدق",
-      "category": "قصص من السيرة",
-      "description": "قصة عن فضل الصدق وأثره في حياة المسلم",
+      "title": "من روائع القصص",
+      "category": "قصص إسلامية",
+      "description": "مجموعة من القصص المؤثرة التي تحمل العبر والمواعظ من التاريخ الإسلامي.",
       "contentPath": "story1/content.md",
       "audioUrl": "story1/audio.mp3",
       "imageUrl": "story1/image.jpg",
@@ -12,9 +12,9 @@
     },
     {
       "id": "story2",
-      "title": "قصة الأمانة",
-      "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "title": "سلسلة الطريق إلى الجنة",
+      "category": "سلاسل دينية",
+      "description": "قصص عن الأعمال الصالحة التي تقرب المسلم من الجنة وتزرع الطمأنينة في القلب.",
       "contentPath": "story2/content.md",
       "audioUrl": "story2/audio.mp3",
       "imageUrl": "story2/image.jpg",
@@ -22,53 +22,83 @@
     },
     {
       "id": "story3",
-      "title": "قصة الأمانة",
-      "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "title": "سلسلة السيرة النبوية",
+      "category": "سيرة نبوية",
+      "description": "قصص من حياة النبي محمد ﷺ تسلط الضوء على القيم والأخلاق النبوية.",
       "contentPath": "story3/content.md",
       "audioUrl": "story3/audio.mp3",
       "imageUrl": "story3/image.jpg",
-      "publishDate": "2024-03-21"
+      "publishDate": "2024-03-22"
     },
     {
       "id": "story4",
-      "title": "قصة الأمانة",
+      "title": "قصة الفاروق",
       "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "description": "قصة عن عدل وقوة عمر بن الخطاب رضي الله عنه، أحد الخلفاء الراشدين.",
       "contentPath": "story4/content.md",
       "audioUrl": "story4/audio.mp3",
       "imageUrl": "story4/image.jpg",
-      "publishDate": "2024-03-21"
+      "publishDate": "2024-03-23"
     },
     {
       "id": "story5",
-      "title": "قصة الأمانة",
-      "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "title": "كيف تكسب مليارات الحسنات",
+      "category": "نصائح دينية",
+      "description": "سلسلة تسلط الضوء على طرق عملية لزيادة الحسنات في الحياة اليومية.",
       "contentPath": "story5/content.md",
       "audioUrl": "story5/audio.mp3",
       "imageUrl": "story5/image.jpg",
-      "publishDate": "2024-03-21"
+      "publishDate": "2024-03-24"
     },
     {
       "id": "story6",
-      "title": "قصة الأمانة",
-      "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "title": "سواعد الإخاء",
+      "category": "قصص اجتماعية",
+      "description": "قصص عن الأخوة في الإسلام والتعاون في سبيل الخير.",
       "contentPath": "story6/content.md",
       "audioUrl": "story6/audio.mp3",
       "imageUrl": "story6/image.jpg",
-      "publishDate": "2024-03-21"
+      "publishDate": "2024-03-25"
     },
-        {
+    {
       "id": "story7",
-      "title": "قصة التفائل",
-      "category": "قصص الصحابة",
-      "description": "قصة عن الأمانة وأهميتها",
+      "title": "سلسلة مشاهد 1",
+      "category": "قصص مشاهد",
+      "description": "قصص قصيرة تسلط الضوء على مواقف إنسانية ودروس من الحياة.",
       "contentPath": "story7/content.md",
       "audioUrl": "story7/audio.mp3",
       "imageUrl": "story7/image.jpg",
-      "publishDate": "2024-03-21"
+      "publishDate": "2024-03-26"
+    },
+    {
+      "id": "story8",
+      "title": "يا الله",
+      "category": "قصص روحانية",
+      "description": "قصص تروي عن التوجه إلى الله بالدعاء والثقة برحمته.",
+      "contentPath": "story8/content.md",
+      "audioUrl": "story8/audio.mp3",
+      "imageUrl": "story8/image.jpg",
+      "publishDate": "2024-03-27"
+    },
+    {
+      "id": "story9",
+      "title": "سلسلة بدر",
+      "category": "قصص تاريخية",
+      "description": "قصص عن غزوة بدر وأحداثها التي كانت أول نصر للمسلمين.",
+      "contentPath": "story9/content.md",
+      "audioUrl": "story9/audio.mp3",
+      "imageUrl": "story9/image.jpg",
+      "publishDate": "2024-03-28"
+    },
+    {
+      "id": "story10",
+      "title": "سلسلة عرفت طريقي",
+      "category": "قصص تحول",
+      "description": "قصص لأشخاص وجدوا طريقهم إلى الهداية والنور.",
+      "contentPath": "story10/content.md",
+      "audioUrl": "story10/audio.mp3",
+      "imageUrl": "story10/image.jpg",
+      "publishDate": "2024-03-29"
     }
   ]
 }
