@@ -1,0 +1,24 @@
+{
+  "stories": [
+    {
+      "id": "story1",
+      "title": "قصة الصدق ينجي",
+      "category": "قصص من السيرة",
+      "description": "وصف مختصر للقصة...",
+      "publishDate": "2024-03-20",
+      "contentPath": "content/story1/content.md",
+      "audioUrl": "content/story1/audio.mp3",
+      "imageUrl": "content/story1/image.jpg"
+    },
+    {
+      "id": "story2",
+      "title": "قصة أخرى",
+      "category": "قصص الأنبياء",
+      "description": "وصف مختصر...",
+      "publishDate": "2024-03-21",
+      "contentPath": "content/story2/content.md",
+      "audioUrl": "content/story2/audio.mp3",
+      "imageUrl": "content/story2/image.jpg"
+    }
+  ]
+}
