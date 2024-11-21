@@ -59,6 +59,16 @@
       "audioUrl": "story6/audio.mp3",
       "imageUrl": "story6/image.jpg",
       "publishDate": "2024-03-21"
+    },
+        {
+      "id": "story7",
+      "title": "قصة التفائل",
+      "category": "قصص الصحابة",
+      "description": "قصة عن الأمانة وأهميتها",
+      "contentPath": "story7/content.md",
+      "audioUrl": "story7/audio.mp3",
+      "imageUrl": "story7/image.jpg",
+      "publishDate": "2024-03-21"
     }
   ]
 }
