@@ -2,23 +2,24 @@
   "stories": [
     {
       "id": "story1",
-      "title": "قصة الصدق ينجي",
+      "title": "عنوان القصة الأولى",
       "category": "قصص من السيرة",
-      "description": "وصف مختصر للقصة...",
-      "publishDate": "2024-03-20",
+      "description": "وصف مختصر للقصة",
       "contentPath": "content/story1/content.md",
       "audioUrl": "content/story1/audio.mp3",
-      "imageUrl": "content/story1/image.jpg"
+      "imageUrl": "content/story1/image.jpg",
+      "publishDate": "2024-03-20"
     },
+      "stories": [
     {
       "id": "story2",
-      "title": "قصة أخرى",
-      "category": "قصص الأنبياء",
-      "description": "وصف مختصر...",
-      "publishDate": "2024-03-21",
-      "contentPath": "content/story2/content.md",
+      "title": "عنوان القصة الأولى",
+      "category": "قصص من السيرة",
+      "description": "وصف مختصر للقصة",
+      "contentPath": "content/story1/content.md",
       "audioUrl": "content/story2/audio.mp3",
-      "imageUrl": "content/story2/image.jpg"
-    }
+      "imageUrl": "content/story2/image.jpg",
+      "publishDate": "2024-03-20"
+    },
   ]
 }
