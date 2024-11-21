@@ -20,5 +20,45 @@
       "imageUrl": "story2/image.jpg",
       "publishDate": "2024-03-21"
     }
+        {
+      "id": "story3",
+      "title": "قصة الأمانة",
+      "category": "قصص الصحابة",
+      "description": "قصة عن الأمانة وأهميتها",
+      "contentPath": "story3/content.md",
+      "audioUrl": "story3/audio.mp3",
+      "imageUrl": "story3/image.jpg",
+      "publishDate": "2024-03-21"
+    }
+        {
+      "id": "story4",
+      "title": "قصة الأمانة",
+      "category": "قصص الصحابة",
+      "description": "قصة عن الأمانة وأهميتها",
+      "contentPath": "story4/content.md",
+      "audioUrl": "story4/audio.mp3",
+      "imageUrl": "story4/image.jpg",
+      "publishDate": "2024-03-21"
+    }
+        {
+      "id": "story5",
+      "title": "قصة الأمانة",
+      "category": "قصص الصحابة",
+      "description": "قصة عن الأمانة وأهميتها",
+      "contentPath": "story5/content.md",
+      "audioUrl": "story5/audio.mp3",
+      "imageUrl": "story5/image.jpg",
+      "publishDate": "2024-03-21"
+    }
+        {
+      "id": "story6",
+      "title": "قصة الأمانة",
+      "category": "قصص الصحابة",
+      "description": "قصة عن الأمانة وأهميتها",
+      "contentPath": "story6/content.md",
+      "audioUrl": "story6/audio.mp3",
+      "imageUrl": "story6/image.jpg",
+      "publishDate": "2024-03-21"
+    }
   ]
 }
