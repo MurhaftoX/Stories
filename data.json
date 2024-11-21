@@ -5,9 +5,9 @@
       "title": "قصة الصدق",
       "category": "قصص من السيرة",
       "description": "قصة عن فضل الصدق وأثره في حياة المسلم",
-      "contentPath": "content/story1/content.md",
-      "audioUrl": "content/story1/audio.mp3",
-      "imageUrl": "content/story1/image.jpg",
+      "contentPath": "story1/content.md",
+      "audioUrl": "story1/audio.mp3",
+      "imageUrl": "story1/image.jpg",
       "publishDate": "2024-03-20"
     },
     {
@@ -15,9 +15,9 @@
       "title": "قصة الأمانة",
       "category": "قصص الصحابة",
       "description": "قصة عن الأمانة وأهميتها",
-      "contentPath": "content/story2/content.md",
-      "audioUrl": "content/story2/audio.mp3",
-      "imageUrl": "content/story2/image.jpg",
+      "contentPath": "story2/content.md",
+      "audioUrl": "story2/audio.mp3",
+      "imageUrl": "story2/image.jpg",
       "publishDate": "2024-03-21"
     }
   ]
