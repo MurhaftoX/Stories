@@ -1,1 +1,1 @@
-Stories for your lif
+Stories for your life
